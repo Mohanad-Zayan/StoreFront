@@ -13,10 +13,6 @@
   $ psql -U postgres
 ```
 ```bash
-  $ CREATE USER owner WITH PASSWORD 'passwrod1234';
-```
-
-```bash
   $ CREATE DATABASE frontStore;
   $ CREATE DATABASE frontStore_test;
 ```
