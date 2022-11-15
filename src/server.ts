@@ -21,8 +21,8 @@ app.use("/", userRouter);
 
 
 
-app.listen(3001, function () {
-  console.log(`starting app `);
+app.listen(3000, function () {
+  console.log(`starting app on localHost:3000 `);
 });
 
 
